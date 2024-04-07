@@ -1,1 +1,1 @@
-# ⚙️ Create basic todo list using React, Vite, and Tailwind CSS
+⚙️ Create basic todo list using React + Vite and Tailwind CSS
